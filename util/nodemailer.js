@@ -5,11 +5,11 @@ const nodemailer = require('nodemailer');
 
 /**Testing purposes */
 const transport = {
-    host: 'email-smtp.us-east-1.amazonaws.com',
-    port: 465,
+    host: 'smtp.gmail.com',
+    port: 587,
     auth: {
-        user: 'project.1',
-        pass: 'secret.1'
+        user: 'socialnetworks565@gmail.com',
+        pass: 'I1234567890mnbvcxz'
     }
 }
 
